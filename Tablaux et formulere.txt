@@ -1,0 +1,49 @@
+<DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type"Content="texte/html;charset=windows-1252">
+<title>nouvelle page 2</title>
+<body>
+<form>
+<table>
+<tr>
+<td>nom:<td>
+<td><input=texte></td>
+<tr>
+<table>
+<form>
+<form>
+<table>
+<tr>
+<td>adresse mail:<td>
+<td><input=texte></td>
+<tr>
+<table>
+<form>
+<form>
+<table>
+<tr>
+<td>mot de passe:<td>
+<td><input=texte></td>
+<tr>
+<table>
+<form>
+<bouton>envoyer<bouton>
+<form>
+<table>
+<tr>
+<td>adresse mail:<td>
+<td><input=texte></td>
+<tr>
+<table>
+<form>
+<form>
+<table>
+<tr>
+<td>mot de passe:<td>
+<td><input=texte></td>
+<tr>
+<table>
+<form>
+<bouton>envoyer<bouton>
+<body>
